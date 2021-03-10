@@ -15,7 +15,7 @@ With Rails, though, we aren't required to strictly render ERB views. In this
 code-along, we're going to briefly review the MVC structure of Rails as well as
 rendering through the Rails controller. The basic files of a Rails app are 
 provided in this lesson, but some files will need content from this Readme to 
-function.
+function. Submit.
 
 ## Review of MVC Structure
 
